@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Main.unity
+    guid: ddde1e1769f3e324e800802745095056
+  - enabled: 1
+    path: Assets/Scene/Learn.unity
+    guid: e3e5e9e52ba7d20489429832a7e96d6a
+  - enabled: 1
+    path: Assets/Scene/Play.unity
+    guid: ee6fd239d7e9089489da7ca64c4d7aec
+  - enabled: 1
+    path: Assets/Scene/Question.unity
+    guid: 8fdf95398bdee0b49a0fce82ac405939
+  - enabled: 1
+    path: Assets/Scene/QuestionExtra.unity
+    guid: 9c28366ea87e592479da31e6d278a050
+  - enabled: 1
+    path: Assets/Scene/Score.unity
+    guid: ae188977dc6633d4d8d36ea45be25fed
+  - enabled: 1
+    path: Assets/Scene/Learn/Learn_Div.unity
+    guid: d8f10ca6f7810134a9442b51dc1d3e03
+  - enabled: 1
+    path: Assets/Scene/Learn/Learn_minus.unity
+    guid: dc106c42e83d9044082b222219ffef60
+  - enabled: 1
+    path: Assets/Scene/Learn/Learn_mul.unity
+    guid: a4cc0cba61040a94eb1e820c727fb1ed
+  - enabled: 1
+    path: Assets/Scene/Learn/Learn_plus.unity
+    guid: 436dda87625e78842bac0722fa4a2408

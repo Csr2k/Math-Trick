@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: ca6c791385ec6b749924895c3e0935be
+timeCreated: 1493012399
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TH SarabunPSK
+  fontNames:
+  - TH SarabunPSK
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3a1a0160ac4bc134d9f06c07af12c437, type: 3}
+  - {fileID: 12800000, guid: a3d42460741b1eb4aa85bf40c69e20e4, type: 3}
+  - {fileID: 12800000, guid: 4840a7a2ce1fb2a408f3373957cffb34, type: 3}
+  - {fileID: 12800000, guid: 1d1168130e517944697a51f705addabb, type: 3}
+  - {fileID: 12800000, guid: c55a8443d2b111f448778957ac2b3a06, type: 3}
+  - {fileID: 12800000, guid: 6fe28068bacd747448ec013b397a20eb, type: 3}
+  - {fileID: 12800000, guid: 661ed83ccc3a2a745ab1fc5e74358bb0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

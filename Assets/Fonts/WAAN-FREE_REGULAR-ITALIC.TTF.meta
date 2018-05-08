@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 57287e2df4ecac64d8a769662b77c60e
+timeCreated: 1505239266
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: waan free
+  fontNames:
+  - waan free
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

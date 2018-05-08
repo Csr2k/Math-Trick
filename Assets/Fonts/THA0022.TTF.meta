@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 89b574dd13fd8914ea23f71e3f1db996
+timeCreated: 1508658043
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 4711_AtNoon_BigHead
+  fontNames:
+  - 4711_AtNoon_BigHead
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

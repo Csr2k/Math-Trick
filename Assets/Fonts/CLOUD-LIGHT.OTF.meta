@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c5fca959b0b8d5345884cb74009ec219
+timeCreated: 1505239207
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cloud
+  fontNames:
+  - Cloud
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a843f70597f25f646ad1d5f275884ea4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

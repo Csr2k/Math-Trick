@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7e82997a0090c8345a24934b8bf5b5ab
+timeCreated: 1505239236
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nithan
+  fontNames:
+  - Nithan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

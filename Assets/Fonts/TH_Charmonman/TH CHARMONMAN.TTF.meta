@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c6d505dbac7aff449aa2abff64624cf9
+timeCreated: 1508657049
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TH Charmonman
+  fontNames:
+  - TH Charmonman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2367019f0a299a14fbad31af0a91817f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
